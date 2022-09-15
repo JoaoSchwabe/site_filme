@@ -1,9 +1,9 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://github.com/diegocandido/) 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://github.com/JoaoSchwabe/) 
 
 
 # API DE FILMES
 
-Por [Diego Candido](https://diegocandido.com)
+
 
 Montei esse projeto bem básico para consumir uma API Rest com lista de filmes.
 
