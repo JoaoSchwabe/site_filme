@@ -35,10 +35,12 @@ npm start
 
 ## Tela Inicial do projeto:
 
-![screan](https://user-images.githubusercontent.com/1766790/189640825-d0027b27-5576-4c3c-97b9-745c059bed2b.JPG)
+![screan](https://user-images.githubusercontent.com/81689363/190420116-177e6087-c1dd-4276-bef1-1dd20e575039.PNG)
 
 
+## Tela de detalhes do filme:
 
+![details](https://user-images.githubusercontent.com/81689363/190419902-82b9ce94-3944-4bdb-ad1c-e35a93b142e1.PNG)
 
 
  
