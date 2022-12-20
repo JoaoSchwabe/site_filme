@@ -30,6 +30,7 @@ const Movie = () => {
                 });
                 setMovie(filme);
             });
+        // eslint-disable-next-line
     }, []);
 
     return (
