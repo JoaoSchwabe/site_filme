@@ -22,6 +22,7 @@ Irá ser necessário a geração de uma chave privada nesse link:
 ```
 https://www.themoviedb.org/settings/api
 ```
+A chave deve ser colocada em uma variável de ambiente com o nome de 'REACT_APP_KEY'
 
 ## Clonando o Repositório ##
 Com o Git e o Node.js instalado na sua maquina e a **URL** do projeto em mãos, cria em algum lugar do seu pc uma pasta para criarmos uma copia do repositório, dentro dela abra o **cmd** ou **powershell** e digite os comandos abaixo:
